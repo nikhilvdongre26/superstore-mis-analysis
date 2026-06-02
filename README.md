@@ -13,7 +13,7 @@ The dataset was first cleaned and validated in Microsoft Excel, where data quali
 - Built a 3-page interactive Power BI dashboard.
 - Performed SQL-based sales and profitability analysis.
 - Identified loss-making categories and top-performing regions.
-- 
+
 ## Tools Used
 - Microsoft Excel
 - MySQL
